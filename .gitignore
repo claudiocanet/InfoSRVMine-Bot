@@ -1,0 +1,5 @@
+.idea
+.htaccess
+composer.json
+composer.lock
+composer.phar
